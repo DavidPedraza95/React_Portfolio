@@ -41,9 +41,9 @@
   <ur>
 
   ## 📈Test📈
-  NodeJS (dependencies: React, react-dom,react scripts)
-  React
-  Netlify
+  - NodeJS (dependencies: React, react-dom,react scripts)
+  - React
+  - Netlify
   <ur>
     
     
