@@ -19,7 +19,7 @@ let resumeData = {
         {
           "name":"skype",
           "url":"404",
-          "className":"fa fa-twitter"
+          "className":"fa fa-twitter."
         }
       ],
     "aboutme":"I am a current student in the UNCC Coding Bootcamp, as well as a Global Audit Internal Analyst at MUFG. My background includes eight years of Customer Service, five years of Financial Services, and three years of Wire Operations experience.",
